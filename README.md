@@ -1,4 +1,4 @@
 # cookbook-Selina2
  A collection of my favorite recipes
 
- I add a sentence to show pulling
+ I added a sentence to show pulling
